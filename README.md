@@ -7,3 +7,7 @@ You have checkboxes to choose whether you want to include lowercase, uppercase, 
 Then you input how many characters you would like the password to be. You can
 
 Then there will be a resultant random password.
+
+Fully deployed site here: https://beccadoan.github.io/password-generator/
+
+[pwgenerator.jpg](https://postimg.cc/XpZvGvcQ)
